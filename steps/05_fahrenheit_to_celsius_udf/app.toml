@@ -8,8 +8,6 @@ file = "app.zip"
 name = "fahrenheit_to_celsius_udf"
 handler = "app.main"
 execute_as_caller = true
-PACKAGES = ""
-LANGUAGE = PYTHON
 
 [dev]
 database = "HOL_DB"
